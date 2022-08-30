@@ -1,1 +1,2 @@
 # testowanie-serwer
+# bean-rate
